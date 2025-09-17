@@ -15,12 +15,12 @@ The system uses stack (LIFO) and queue (FIFO) data structures to handle real-wor
 ****
 Features
 
-✅ Store containers with ID, description, and weight
-✅ View all containers from top to bottom
-✅ Register arriving ships with name and captain
-✅ View all waiting ships from front to rear
-✅ Load containers onto ships (pop + poll)
-✅ Display remaining containers and ships after loading
+- ✅ Store containers with ID, description, and weight
+- ✅ View all containers from top to bottom
+- ✅ Register arriving ships with name and captain
+- ✅ View all waiting ships from front to rear
+- ✅ Load containers onto ships (pop + poll)
+- ✅ Display remaining containers and ships after loading
 
 ****
 
